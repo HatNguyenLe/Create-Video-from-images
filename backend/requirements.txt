@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+pillow>=10.1
+numpy>=1.26
+moviepy>=2.0
+imageio-ffmpeg>=0.5
+edge-tts>=6.1
+python-dotenv>=1.0

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.env
+
+# Model weights & generated files
+backend/model_weights/*
+!backend/model_weights/.gitkeep
+backend/storage/
+
+# Node
+node_modules/
+frontend/dist/
